@@ -24,8 +24,8 @@ https://qx-alpha-radar.vercel.app/
 
 ##  WorkFlow Automation Video
 
-👉 **Watch the full demo:** 
-https://qx-alpha-radar.vercel.app/
+👉 **Watch the full Automation video Easy connect + Make:** 
+[![Watch the Demo](./assets/easy.png)](https://youtu.be/15wZPvRUur4)
 
 ---
 
