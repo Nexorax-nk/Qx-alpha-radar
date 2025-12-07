@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 **QX AlphaRadar** is a real-time event detection and alerting system built for the **Qubic Hackathon**.  
 It monitors the Qubic chain for high-impact events and instantly delivers actionable alerts to **Telegram**, **Discord**, and **Google Sheets**.
@@ -16,14 +16,14 @@ This project shows how raw blockchain noise can be converted into meaningful tra
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 👉 **Watch the full demo:**  
 https://your-demo-link.com
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### **📡 Workflow Automation (Make.com)**
 <p align="center">
@@ -46,21 +46,21 @@ https://your-demo-link.com
 
 ---
 
-### **📊 Google Sheets Logging**
+### ** Google Sheets Logging**
 <p align="center">
-  <img src="./assets/gsheetslogs.png" width="80%" />
+  <img src="./asset/gsheetslogs.png" width="80%" />
 </p>
 
 ---
 
 ### **🖥️ Dashboard UI**
 <p align="center">
-  <img src="./assets/livedashboard.png" width="80%" />
+  <img src="./asset/livedashboard.png" width="80%" />
 </p>
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### ⚡ Real-Time Event Detection  
 - Buy Orders (`AddToBidOrder`)  
@@ -85,4 +85,8 @@ https://your-demo-link.com
 ---
 
 ## 🧠 System Architecture
+<p align="center">
+  <img src="./asset/system.png" width="80%" />
+</p>
 
+---
