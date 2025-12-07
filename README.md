@@ -1,145 +1,88 @@
-QX AlphaRadar
-Real-Time On-Chain Intelligence for Qubic Traders
+<h1 align="center">QX AlphaRadar</h1>
+<h3 align="center">Real-Time On-Chain Intelligence for Qubic Traders</h3>
 
-QX AlphaRadar is a real-time event detection and alerting system built for the Qubic Hackathon.
-It monitors the Qubic chain for high-impact events and instantly sends actionable alerts to Telegram, Discord, and Google Sheets for analytics.
+<p align="center">
+  <b>Instant alerts • Whale tracking • Liquidity monitoring • Governance intelligence</b>
+</p>
 
-This project demonstrates how raw blockchain data can be transformed into meaningful trading intelligence using automation, routing logic, and a lightweight dashboard.
+---
 
-📽️ Demo Video
+## 🎯 Overview
 
-➡️ Demo Video: https://your-demo-link.com
+**QX AlphaRadar** is a real-time event detection and alerting system built for the **Qubic Hackathon**.  
+It monitors the Qubic chain for high-impact events and instantly delivers actionable alerts to **Telegram**, **Discord**, and **Google Sheets**.
 
-📸 Screenshots
+This project shows how raw blockchain noise can be converted into meaningful trading intelligence using powerful automation flows and a lightweight analytics dashboard.
 
-Workflow Automation (Make.com)
+---
 
-![Workflow](./asset/workflow-make2.png)
-![Workflow](./asset/workflow-make.png)
+## 🎥 Demo Video
 
-Telegram Alerts
+👉 **Watch the full demo:**  
+https://your-demo-link.com
 
-![Telegram Alerts](./assets/TeleBot.png)
+---
 
-Discord Alerts
+## 🖼️ Screenshots
 
-![Discord Alerts](./assets/Discordbot.png)
+### **📡 Workflow Automation (Make.com)**
+<p align="center">
+  <img src="./asset/workflow-make.png" width="80%" />
+</p>
 
-Google Sheets Log
+---
 
-![Sheets Log](./assets/gsheetlogs.png)
+### **📲 Telegram Alerts**
+<p align="center">
+  <img src="./asset/TeleBot.png" width="60%" />
+</p>
 
-Dashboard UI
+---
 
-![Dashboard](./assets/livedashboard.png)
+### **💬 Discord Alerts**
+<p align="center">
+  <img src="./asset/Discordbot.png" width="60%" />
+</p>
 
-🔥 Key Features
-⚡ Real-Time Event Detection
+---
 
-Buy Orders (AddToBidOrder)
+### **📊 Google Sheets Logging**
+<p align="center">
+  <img src="./assets/gsheetslogs.png" width="80%" />
+</p>
 
-Sell Orders (AddToAskOrder)
+---
 
-Whale Transactions
+### **🖥️ Dashboard UI**
+<p align="center">
+  <img src="./assets/livedashboard.png" width="80%" />
+</p>
 
-Liquidity Drains
+---
 
-Governance Transfers
+## 🚀 Key Features
 
-Ownership Transfers
+### ⚡ Real-Time Event Detection  
+- Buy Orders (`AddToBidOrder`)  
+- Sell Orders (`AddToAskOrder`)  
+- Whale Transactions  
+- Liquidity Drains  
+- Governance Transfers  
+- Ownership Transfers  
+- Volume Spikes  
 
-Volume Spikes
+### 📡 Multi-Channel Alert Delivery  
+- Telegram Bot  
+- Discord Webhooks  
+- Google Sheets Log  
 
-📡 Multi-Channel Alerts
+### 📊 Insights & Analytics  
+- Volume trends  
+- Whale activity  
+- Liquidity heatmaps  
+- Governance monitoring  
 
-Telegram Bot Notifications
+---
 
-Discord Webhooks
-
-Google Sheets Logging
-
-📊 Analytics & Insights
-
-Volume trends
-
-Whale behavior
-
-Governance activity
-
-Liquidity heatmaps
-
-🧠 Smart Routing Logic
-
-Each event type is automatically classified and formatted using custom Make.com blueprints.
-
-🧩 System Architecture
-       Qubic Blockchain Events
-                 │
-                 ▼
-         EasyConnect Alerts
-                 │ (Webhook)
-                 ▼
-        ┌────────────────────────┐
-        │     Make.com Router    │
-        └────────────────────────┘
-       /        |         |        \
-      ▼         ▼         ▼         ▼
-Telegram   Discord   Google Sheets  Dashboard UI
- Alerts     Alerts     Data Log     (index.html)
-
-🛠 Tech Stack
-Layer	Technology
-Event Source	EasyConnect (Qubic)
-Automation Engine	Make.com
-Alerts	Telegram Bot, Discord Webhooks
-Storage	Google Sheets
-Dashboard	HTML, CSS, JavaScript
-📂 Project Structure
-/
-├── index.html      # Dashboard UI
-├── style.css       # Styling
-├── index.js        # Frontend logic
-└── assets/         # Screenshots & images
-
-
-Create the assets/ folder and place all images inside it.
-
-🔧 How It Works
-
-1️⃣ EasyConnect listens to Qubic blockchain events
-2️⃣ Sends structured JSON to a Make.com webhook
-3️⃣ Router determines event type
-4️⃣ Custom formatters generate human-readable messages
-5️⃣ Alerts are sent instantly to Telegram + Discord
-6️⃣ Event logs are written to Google Sheets
-7️⃣ Dashboard UI displays recent activity
-
-🚀 Future Enhancements
-
-AI-based wallet scoring
-
-Multi-token monitoring
-
-Sentiment-driven alerting
-
-Historical trend prediction
-
-Mobile app alerts
-
-Full real-time dashboard with charts
-
-🙏 Acknowledgements
-
-Qubic Team
-
-EasyConnect Developers
-
-Make.com Automation Platform
-
-lablab.ai Mentors
-
-👤 Developer
-
-Naveen (Nexorax-nk)
-Backend Automation • Architecture • Dashboard
+## 🧠 System Architecture
 
