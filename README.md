@@ -53,6 +53,13 @@ https://your-demo-link.com
 
 ---
 
+## 🧠Easy connect Dashboard
+<p align="center">
+  <img src="./asset/easy.png" width="80%" />
+</p>
+
+---
+
 ### **🖥️ Dashboard UI**
 <p align="center">
   <img src="./asset/livedashboard.png" width="80%" />
@@ -90,3 +97,62 @@ https://your-demo-link.com
 </p>
 
 ---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Event Source | EasyConnect (Qubic) |
+| Automation Engine | Make.com |
+| Alerts | Telegram, Discord |
+| Storage | Google Sheets |
+| Dashboard | HTML, CSS, JavaScript |
+
+---
+
+## 📂 Project Structure
+
+/
+├── index.html
+├── style.css
+├── index.js
+└── assets/
+
+---
+
+## 🔧 How It Works
+
+1️⃣ EasyConnect listens to Qubic chain events  
+2️⃣ Sends structured JSON → Make.com webhook  
+3️⃣ Router identifies event type  
+4️⃣ Formatters convert to readable alerts  
+5️⃣ Alerts sent to Telegram & Discord  
+6️⃣ All events logged in Google Sheets  
+7️⃣ Dashboard displays latest activity  
+
+---
+
+## 🔮 Future Enhancements
+
+- AI-based wallet scoring  
+- Multi-token monitoring  
+- Sentiment-based alerting  
+- Trend prediction models  
+- Real-time chart dashboard  
+- Mobile alerts app  
+
+---
+
+## 🙏 Acknowledgements
+
+- Qubic  
+- EasyConnect  
+- Make.com  
+- lablab.ai mentors  
+
+---
+
+## 👤 Developer
+
+**Naveen**  
+Automation • Architecture • UI  
