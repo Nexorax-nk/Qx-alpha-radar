@@ -16,10 +16,16 @@ This project shows how raw blockchain noise can be converted into meaningful tra
 
 ---
 
-##  Demo Video
+##  Demo Website
 
-👉 **Watch the full demo:**  
-https://your-demo-link.com
+https://qx-alpha-radar.vercel.app/
+
+---
+
+##  WorkFlow Automation Video
+
+👉 **Watch the full demo:** 
+https://qx-alpha-radar.vercel.app/
 
 ---
 
@@ -46,7 +52,7 @@ https://your-demo-link.com
 
 ---
 
-### ** Google Sheets Logging**
+### **Google Sheets Logging**
 <p align="center">
   <img src="./asset/gsheetslogs.png" width="80%" />
 </p>
@@ -107,16 +113,6 @@ https://your-demo-link.com
 | Alerts | Telegram, Discord |
 | Storage | Google Sheets |
 | Dashboard | HTML, CSS, JavaScript |
-
----
-
-## 📂 Project Structure
-
-/
-├── index.html
-├── style.css
-├── index.js
-└── assets/
 
 ---
 
