@@ -52,7 +52,7 @@ https://qx-alpha-radar.vercel.app/
 
 ---
 
-### **Google Sheets Logging**
+### **Google Sheets Logging** (https://docs.google.com/spreadsheets/d/1l8ClTob9lNdhxopEuInzSeE3krDUApV0mUsvQxRq54o/edit?usp=sharing)
 <p align="center">
   <img src="./asset/gsheetslogs.png" width="80%" />
 </p>
